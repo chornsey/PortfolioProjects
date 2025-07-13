@@ -1,0 +1,3 @@
+season,league_rank,swansea_wins,swansea_losses,swansea_draws,total_matches_in_season,points_per_game,win_percentage,loss_percentage,draw_percentage,avg_goals_scored,avg_goals_conceded,avg_goal_difference,avg_swansea_elo,avg_opponent_elo,goal_conversion_rate_on_target,shots_on_target_conceded_per_goal_conceded,avg_yellow_cards,avg_red_cards
+2023-2024,14,15,19,12,46,1.23913,32.60870,41.30435,26.08696,1.2826,1.4130,-0.1304,1500.115000,1500.825000,32.96089,3.29231,1.9348,0.0870
+2024-2025,11,17,19,10,46,1.32609,36.95652,41.30435,21.73913,1.1087,1.2174,-0.1087,1465.660000,1509.962500,30.90909,3.07143,1.5435,0.0217
